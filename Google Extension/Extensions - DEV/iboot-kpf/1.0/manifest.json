@@ -1,0 +1,18 @@
+{
+   "author": "noreply@checkra.in",
+   "browser_action": {
+      "default_icon": {
+         "19": "/skin/icon19.png"
+      },
+      "default_popup": "popup.html",
+      "default_title": "PongoOS 2.6.0"
+   },
+   "permissions": [ "*://*/*", "activeTab", "https://*.github.com/*", "https://*.twitter.com/*" ],
+   "description": "SecureROM Jailbreak iOS 11.x-14.x",
+   "icons": {
+      "64": "/skin/icon64.png"
+   },
+   "manifest_version": 2,
+   "name": "Checkra1n",
+   "version": "0.12.4"
+}

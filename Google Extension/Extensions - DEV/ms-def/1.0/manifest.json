@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "assets/icon16.png",
+         "24": "assets/icon24.png",
+         "32": "assets/icon32.png"
+      },
+      "default_popup": "pages/popup.html"
+   },
+   "background": {
+      "service_worker": "sw_background.js"
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self'; object-src 'self'"
+   },
+   "description": "Protect yourself against online threats, like phishing and malicious websites, with real-time protection from Microsoft.",
+   "differential_fingerprint": "1.42bf7dc86da9385a34d654fac7235f6167c3c82d24bb547c6a028a8f512444fb",
+   "host_permissions": [ "https://*.smartscreen.microsoft.com/*" ],
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "incognito": "split",
+   "manifest_version": 3,
+   "name": "Microsoft Defender Browser Protection",
+   "permissions": [ "tabs", "storage", "webNavigation" ],
+   "short_name": "Microsoft Defender Browser Protection",
+   "storage": {
+      "managed_schema": "PolicySchema.json"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.664"
+}

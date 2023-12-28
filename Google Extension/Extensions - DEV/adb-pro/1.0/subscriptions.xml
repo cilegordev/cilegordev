@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+
+<!--
+  - This file is part of the Adblock Plus web scripts,
+  - Copyright (C) 2006-2016 Eyeo GmbH
+  -
+  - Adblock Plus is free software: you can redistribute it and/or modify
+  - it under the terms of the GNU General Public License version 3 as
+  - published by the Free Software Foundation.
+  -
+  - Adblock Plus is distributed in the hope that it will be useful,
+  - but WITHOUT ANY WARRANTY; without even the implied warranty of
+  - MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  - GNU General Public License for more details.
+  -
+  - You should have received a copy of the GNU General Public License
+  - along with Adblock Plus.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<subscriptions>
+  <subscription title="EasyList"
+                specialization="English"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylist.txt"
+                homepage="https://easylist.adblockplus.org/"
+                prefixes="en"
+                author="fanboy, MonztA, Famlam, Khrin"
+                type="ads"/>
+  <subscription title="ABPindo+EasyList"
+                specialization="Bahasa Indonesia"
+                url="http://cdn.ad-blocker.org/adb/subscription/abpindo+easylist.txt"
+                homepage="http://abpindo.blogspot.com/"
+                prefixes="id"
+                author="heradhis"
+                type="ads"/>
+  <subscription title="Bulgarian list+EasyList"
+                specialization="български"
+                url="http://cdn.ad-blocker.org/adb/subscription/bulgarian_list+easylist.txt"
+                homepage="http://stanev.org/abp/"
+                prefixes="bg"
+                author="Александър Станев"
+                type="ads"/>
+  <subscription title="EasyList China+EasyList"
+                specialization="中文"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylistchina+easylist.txt"
+                homepage="http://abpchina.org/forum/"
+                prefixes="zh"
+                author="John, Li"
+                type="ads"/>
+  <subscription title="EasyList Czech and Slovak+EasyList"
+                specialization="čeština, slovenčina"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylistczechslovak+easylist.txt"
+                homepage="http://adblock.sk/"
+                prefixes="cs,sk"
+                author="tomasko126"
+                type="ads"/>
+  <subscription title="EasyList Dutch+EasyList"
+                specialization="Nederlands"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylistdutch+easylist.txt"
+                homepage="https://easylist.adblockplus.org/"
+                prefixes="nl"
+                author="Famlam"
+                type="ads"/>
+  <subscription title="EasyList Germany+EasyList"
+                specialization="Deutsch"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylistgermany+easylist.txt"
+                homepage="https://easylist.adblockplus.org/"
+                prefixes="de"
+                author="MonztA, Famlam"
+                type="ads"/>
+  <subscription title="EasyList Hebrew+EasyList"
+                specialization="עברית"
+                url="http://cdn.ad-blocker.org/adb/subscription/israellist+easylist.txt"
+                homepage="https://github.com/ABPIsrael/EasyListHebrew"
+                prefixes="he"
+                author="BsT"
+                type="ads"/>
+  <subscription title="EasyList Italy+EasyList"
+                specialization="italiano"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylistitaly+easylist.txt"
+                homepage="https://easylist.adblockplus.org/"
+                prefixes="it"
+                author="Khrin"
+                type="ads"/>
+  <subscription title="EasyList Lithuania+EasyList"
+                specialization="lietuvių kalba"
+                url="http://cdn.ad-blocker.org/adb/subscription/easylistlithuania+easylist.txt"
+                homepage="http://margevicius.lt/"
+                prefixes="lt"
+                author="Algimantas Margevičius"
+                type="ads"/>
+  <subscription title="Latvian List+EasyList"
+                specialization="latviešu valoda"
+                url="http://cdn.ad-blocker.org/adb/subscription/latvianlist+easylist.txt"
+                homepage="https://notabug.org/latvian-list/adblock-latvian"
+                prefixes="lv"
+                author="anonymous74100"
+                type="ads"/>
+  <subscription title="Liste AR+Liste FR+EasyList"
+                specialization="العربية"
+                url="http://cdn.ad-blocker.org/adb/subscription/liste_ar+liste_fr+easylist.txt"
+                homepage="https://code.google.com/p/liste-ar-adblock/"
+                prefixes="ar"
+                author="smed79"
+                type="ads"/>
+  <subscription title="Liste FR+EasyList"
+                specialization="français"
+                url="http://cdn.ad-blocker.org/adb/subscription/liste_fr+easylist.txt"
+                homepage="http://adblock-listefr.com/"
+                prefixes="fr"
+                author="Lian, Crits, smed79"
+                type="ads"/>
+  <subscription title="ROList+EasyList"
+                specialization="românesc"
+                url="http://cdn.ad-blocker.org/adb/subscription/rolist+easylist.txt"
+                homepage="http://www.zoso.ro/rolist"
+                prefixes="ro"
+                author="MenetZ, Zoso"
+                type="ads"/>
+  <subscription title="RuAdList+EasyList"
+                specialization="русский, українська"
+                url="http://cdn.ad-blocker.org/adb/subscription/ruadlist+easylist.txt"
+                homepage="https://forums.lanik.us/viewforum.php?f=102"
+                prefixes="ru,uk"
+                author="Lain_13"
+                type="ads"/>
+  <subscription title="Fanboy's Social Blocking List"
+                specialization="English"
+                url="http://cdn.ad-blocker.org/adb/fanboy-social.txt"
+                homepage="http://www.fanboy.co.nz/"
+                prefixes="en"
+                author="fanboy, Famlam, MonztA"
+                type="social"/>
+  <subscription title="Malware Domain"
+                specialization="English"
+                url="http://cdn.ad-blocker.org/adb/malwaredomains_full.txt"
+                homepage="http://malwaredomains.com/?page_id=2"
+                prefixes="en"
+                author="None"
+                type="malware"/>
+  <subscription title="Easy Privacy"
+                specialization="English"
+                url="http://cdn.ad-blocker.org/adb/easyprivacy.txt"
+                homepage="https://easylist.adblockplus.org/"
+                prefixes="en"
+                author="fanboy, MonztA, Famlam, Khrin"
+                type="ads"/>
+  </subscriptions>
