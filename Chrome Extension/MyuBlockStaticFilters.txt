@@ -1,0 +1,127 @@
+! SOSMET ! ------------------------------------------------------------------------------------------------
+
+! 2024-03-18 https://www.youtube.com
+www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
+! www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
+www.youtube.com##style-scope ytd-rich-grid-row
+
+! May 25, 2024 https://www.facebook.com
+www.facebook.com##.hlyrhctz.be9z9djy.lpgh02oy.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
+www.facebook.com##.x1xmf6yo.xev17xk.xy80clv.xso031l.xm81vs4.x178xt8z.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.xu1343h.x1nb4dca.x1y71gwh.x1exxf4d
+googleads.g.doubleclick.net
+www.facebook.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
+www.facebook.com##.x1swvt13.xjkvuk6.x1pi30zi.xz9dl7a.x1qughib.x1q0g3np.x78zum5
+www.facebook.com##.x1xmf6yo.xev17xk.xy80clv.xso031l.xm81vs4.x178xt8z.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.xu1343h.x1nb4dca.x1y71gwh.x1exxf4d
+www.facebook.com##div.x1emribx.x1i64zmx:nth-of-type(2) > .xh8yej3.x1n2onr6.x78zum5 > .x10wlt62.x6ikm8r.xh8yej3.xt3gfkd.xu5ydu1.xdney7k.x1qpq9i9.xjbqb8w.x1ja2u2z.x1n2onr6.x9f619 > .x1sxyh0.xurb0ha
+www.facebook.com##.x1g2khh7.x1n2onr6
+www.facebook.com##div.x1ve1bff.x1l90r2v.x1q0g3np.xozqiw3.x1qjc9v5.xl56j7k.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(3)
+
+! 2024-05-18 https://contacts.google.com
+contacts.google.com##div.KIRJpe:nth-of-type(2) > div > div > .fXx9Lc.NATFbe
+contacts.google.com###ow5745 > div:nth-of-type(3) > div:nth-of-type(1) > .fXx9Lc.NATFbe
+contacts.google.com##div:nth-of-type(3) > .KK5Xib.h4UZDd
+
+! WEBSITE NONTON ANIME ! ----------------------------------------------------------------------------------
+
+! 2024-05-18 https://myanimelist.net
+myanimelist.net##.widget-content > h2
+myanimelist.net##.right.mxj.widget > .widget-content
+myanimelist.net##.left.mxj.widget > .widget-header
+myanimelist.net##.left.mxj.widget > .widget-content
+myanimelist.net##.left.announcements.widget > .widget-header
+myanimelist.net##.left.announcements.widget > .widget-content > .borderClass
+myanimelist.net##.left.watched_topics.widget
+
+! 2024-01-05 https://kuramanime.com
+kuramanime.*##.mt-4
+kuramanime.*##.anime-ner.mb-4 > .row > div.col-lg-6.mx-auto:nth-of-type(1)
+kuramanime.*##.anime-ner.mb-4 > .row
+kuramanime.*##.blox
+
+! 2024-04-12 https://samehadaku.com
+||punyakakek.*/uploads/*.gif$image
+
+! 2024-04-12 https://nontonanimeid.com
+||i0.wp.com/nontonanimeid.*/wp-content/uploads/ikln/navbar/*.gif$image
+||i0.wp.com/nontonanimeid.*/wp-content/uploads/ikln/sidebar/*.gif$image
+||i0.wp.com/nontonanimeid.*/wp-content/uploads/ikln/bawah_episode_terbaru/*.gif$image
+||i0.wp.com/nontonanimeid.*/wp-content/uploads/ikln/floating/*.gif$image
+nontonanimeid.*##.close_banner
+nontonanimeid.*###sidebar_right
+nontonanimeid.*##div.adspost468:nth-of-type(3)
+nontonanimeid.*##div.adspost468:nth-of-type(2)
+nontonanimeid.*###series-footer
+nontonanimeid.*##.site-footer
+
+! WEBSITE NONTON FILM ! -----------------------------------------------------------------------------------
+
+! 2023-07-23 https://lk21.com
+51.79.193.133##.idmuvi-topbanner-aftermenu > .row
+
+! 2023-10-22 https://lk22.com
+139.99.115.223###content > div.container:nth-of-type(1)
+
+! 2024-01-22 https://lk23.com
+tv.lk21official.*###top-b
+tv.lk21official.*###bsquare
+
+! 2024-05-12 https://195.26.255.238
+||i2.wp.com/cdn.rebahin21.fun/wp-content/*/*.webp$image
+||195.26.255.238/wp-content/uploads/*/*/*.webp$image
+||195.26.255.238/wp-content/uploads/*/*/*.gif$image
+
+! May 25, 2024 https://154.26.129.195
+154.26.129.195###top-b
+||i.imgur.com/*.gif$image
+||d21.media/img/*.gif$image
+||d000d.com/e/z41sj3qbtb36k8zgk7rdtioj40my9wg1$subdocument
+154.26.129.195##.bannerplayer
+154.26.129.195##.inner-floatbanner-bottom
+154.26.129.195##.idmuvi-bannerplayer
+
+! WEBSITE BACA KOMIK ! ------------------------------------------------------------------------------------
+
+! 2023-10-23 https://komiku.id
+komiku.id###i12485844
+
+! 2024-03-25 https://komikindo.tv
+komikindo.tv###wrap > .gulai_asam_manis > div.double:nth-of-type(1)
+komikindo.tv###wrap > .gulai_asam_manis > div.double:nth-of-type(2)
+komikindo.tv##div.double:nth-of-type(3)
+komikindo.tv##div.double:nth-of-type(4)
+
+! 2024-04-06 https://kiryuu.id
+! ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/1.jpg$image
+! ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/2.jpg$image
+||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/1.gif$image
+||3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif$image
+kiryuu.id##.chaptertags
+kiryuu.id##.releases
+kiryuu.id##.commentx.cmt
+
+! WEBSITE DOWNLOAD ! --------------------------------------------------------------------------------------
+
+! 2023-10-19 https://www.utorrent.com
+||www.utorrent.com/images/nord-images/affiliate-features-campaign-1500x300.png$image
+
+! 2024-05-05 https://www.nesabamedia.com
+www.nesabamedia.com##.nesabapartner_wrapper.wrapper
+www.nesabamedia.com##.custom_headerads
+www.nesabamedia.com##.nesaba_media1.adsbygoogle
+
+! WEBSITE BACA ! ------------------------------------------------------------------------------------------
+
+! 2024-05-15 https://www.91mobiles.com
+www.91mobiles.com##div.finder_snipet_wrap:nth-of-type(19)
+
+! 2024-05-16 https://www.liputan6.com
+www.liputan6.com##.article-content-body__item-content > .advertisement-placeholder
+www.liputan6.com##div.article-content-body__item-page > .advertisement-placeholder
+
+! 2024-05-16 https://www.ahmadservicecenter.com
+www.ahmadservicecenter.com##center
+
+! 2024-05-19 https://www.halodoc.com
+www.halodoc.com##.flex.bottom-10.sticky.article-page__chat-doctor-card
+
+-------------- ! KALO ADA DI BAWAH INI BERARTI HARUS SEGERA DI PINDAHKAHKAN SESUAI KATEGORI ! --------------
