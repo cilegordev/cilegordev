@@ -53,6 +53,22 @@ nontonanimeid.*##div.adspost468:nth-of-type(2)
 nontonanimeid.*###series-footer
 nontonanimeid.*##.site-footer
 
+! Jun 5, 2024 http://62.171.144.229
+||62.171.144.229/wp-content/plugins/floating-ads-bottom/images/close.png$image
+
+! Jun 26, 2024 https://anoboy.baby
+||anoboy.baby/*/qq288a.jpg$image
+||anoboy.baby/img/discord.png$image
+||anoboy.baby/img/*.jpg$image
+anoboy.baby##[href="https://lkgw.cc/anb288"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop
+anoboy.baby###ad_bawah
+anoboy.baby##[href="http://jpx500.quest/tmanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
+anoboy.baby##[href="http://jpx500.quest/qqtanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
+anoboy.baby##[href="https://playbook88hoki.com/"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+anoboy.baby##[href="http://jpx500.quest/sg88anoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea > i-amphtml-sizer
+anoboy.baby##[href="https://hoki.mu/anoboy-klikhoki"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea
+anoboy.baby##[href="https://discord.com/channels/721068213495922799/725015724434784366/1186615652165877870"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea
+
 ! WEBSITE NONTON FILM ! -----------------------------------------------------------------------------------
 
 ! 2023-07-23 https://lk21.com
@@ -109,6 +125,22 @@ www.nesabamedia.com##.nesabapartner_wrapper.wrapper
 www.nesabamedia.com##.custom_headerads
 www.nesabamedia.com##.nesaba_media1.adsbygoogle
 
+! Jul 14, 2024 https://getpayfree.com
+getpayfree.com##.secondary.widget-area
+getpayfree.com###ast-desktop-header > .main-header-bar-wrap.ast-main-header-wrap > .site-header-focus-item.main-header-bar.ast-primary-header.ast-primary-header-bar
+getpayfree.com##.ast-container--.ast-single-related-posts-container
+
+! Jul 14, 2024 https://www.hovatek.com
+www.hovatek.com###page > .noinline
+www.hovatek.com##.clear.entry-content > div#ad-header.noinline:nth-of-type(1)
+www.hovatek.com##.youtubewrapper
+www.hovatek.com##div#ad-header.noinline:nth-of-type(3)
+www.hovatek.com##div#ad-header.noinline:nth-of-type(2)
+www.hovatek.com##.noinline.container-md > .noinline
+www.hovatek.com###pid_157467 > .noinline
+www.hovatek.com##.noinline.container-md > .noinline
+www.hovatek.com###pid_129118 > .noinline
+
 ! WEBSITE BACA ! ------------------------------------------------------------------------------------------
 
 ! 2024-05-15 https://www.91mobiles.com
@@ -123,5 +155,15 @@ www.ahmadservicecenter.com##center
 
 ! 2024-05-19 https://www.halodoc.com
 www.halodoc.com##.flex.bottom-10.sticky.article-page__chat-doctor-card
+
+! Jun 13, 2024 https://www.wattpad.com
+www.wattpad.com##.featured-carousel
+
+! Jul 14, 2024 https://www.thomasmaurer.ch
+www.thomasmaurer.ch##.clearfix.header_row_center.header_row
+
+! Jul 12, 2024 https://gaming-tools.com
+gaming-tools.com##h3
+gaming-tools.com##p:nth-of-type(2)
 
 -------------- ! KALO ADA DI BAWAH INI BERARTI HARUS SEGERA DI PINDAHKAHKAN SESUAI KATEGORI ! --------------
