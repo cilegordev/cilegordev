@@ -4,6 +4,7 @@
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 ! www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
 www.youtube.com##style-scope ytd-rich-grid-row
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 
 ! May 25, 2024 https://www.facebook.com
 www.facebook.com##.hlyrhctz.be9z9djy.lpgh02oy.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
@@ -95,6 +96,24 @@ tv.lk21official.*###bsquare
 154.26.129.195##.inner-floatbanner-bottom
 154.26.129.195##.idmuvi-bannerplayer
 
+! Aug 5, 2024 https://194.233.74.98
+||imgbob.site/images/banner/*.gif$image
+194.233.74.98###fb-fanbox
+194.233.74.98###adsimgxatass
+194.233.74.98##.inner-floatbanner-bottom
+
+! Aug 5, 2024 https://buckeyelakearmory.com
+buckeyelakearmory.com##.gmr-bannerpopup
+buckeyelakearmory.com###floating_banner_top1
+buckeyelakearmory.com###floating_banner_bot2
+buckeyelakearmory.com###content > .container
+
+! Aug 5, 2024 https://lk21ind.net
+lk21ind.net##.module_single_ads
+
+! Aug 6, 2024 https://layardunia21.tv
+||layardunia21.tv/wp-content/uploads/2022/07/Screenshot-2022-07-11-084110.png$image
+
 ! WEBSITE BACA KOMIK ! ------------------------------------------------------------------------------------
 
 ! 2023-10-23 https://komiku.id
@@ -141,6 +160,12 @@ www.hovatek.com###pid_157467 > .noinline
 www.hovatek.com##.noinline.container-md > .noinline
 www.hovatek.com###pid_129118 > .noinline
 
+! Aug 25, 2024 https://downzen.com
+||st.downzen.com/dzni/images/48x48/media/ms-icon-310x310-s-438395ce.png$image
+downzen.com##[href^="https://www.youtube.com/channel/UCRqoTwEsALkHMuzs7FK-8OQ"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed
+downzen.com##amp-ad.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.g-ads:nth-of-type(1)
+||st.downzen.com/dzni/*media/*.png$image
+
 ! WEBSITE BACA ! ------------------------------------------------------------------------------------------
 
 ! 2024-05-15 https://www.91mobiles.com
@@ -165,5 +190,11 @@ www.thomasmaurer.ch##.clearfix.header_row_center.header_row
 ! Jul 12, 2024 https://gaming-tools.com
 gaming-tools.com##h3
 gaming-tools.com##p:nth-of-type(2)
+
+! Aug 5, 2024 https://www.google.com
+www.google.com##i
+
+! Aug 17, 2024 https://www.w3schools.com
+www.w3schools.com###adngin-sidebar_sticky-0
 
 -------------- ! KALO ADA DI BAWAH INI BERARTI HARUS SEGERA DI PINDAHKAHKAN SESUAI KATEGORI ! --------------
