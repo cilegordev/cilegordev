@@ -4,6 +4,8 @@
 # DOC https://www.kali.org/docs/introduction/should-i-use-kali-linux/
 
 echo DISABLE UNUSED PROPERTY 
+sudo swapoff -a
+
 sleep 1
 sudo rmmod -f pcspkr
 # sudo rmmod -f snd_pcm
