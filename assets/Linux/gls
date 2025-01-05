@@ -1,0 +1,9 @@
+#!/bin/sh
+
+for file in *; do
+    acces=$(stat --format='%a' "$file")
+    user=$(stat --format='%U' "$file")
+    group=$(stat --format='%G' "$file")
+    time=$(stat --format='%y' "$file" | awk -F' ' '{split($1, date, "-"); print date[2] "-" date[3]>
+    echo "$acces $user:$group $time $file"
+done
