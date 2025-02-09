@@ -3,9 +3,8 @@
 Now i'm following update : 
 
 [![Linux Kernel](https://img.shields.io/github/v/tag/torvalds/linux.svg)](https://github.com/torvalds/linux/tags)
-[![Azure Linux](https://img.shields.io/github/v/release/microsoft/azurelinux.svg)](https://github.com/microsoft/azurelinux/releases)
-[![Palera1n](https://img.shields.io/github/v/release/palera1n/palen1x.svg)](https://github.com/palera1n/palen1x/releases)
-[![Dopamine](https://img.shields.io/github/v/release/opa334/Dopamine.svg)](https://github.com/opa334/Dopamine/releases)
+[![Azure Linux Kernel](https://img.shields.io/github/v/tag/microsoft/CBL-Mariner-Linux-Kernel.svg)](https://github.com/microsoft/CBL-Mariner-Linux-Kernel/tags)
+[![Azure Linux OS](https://img.shields.io/github/v/tag/microsoft/azurelinux.svg)](https://github.com/microsoft/azurelinux/tags)
 
 <img src="https://i.redd.it/9wtmyyup4qo21.jpg" alt="sfck" align="right" height="256px">
 
@@ -23,4 +22,4 @@ Primary language :
 
 ### Nothing special in here 🚀
 
-# so press ctrl + w now.
+# so press ctrl + w now!
