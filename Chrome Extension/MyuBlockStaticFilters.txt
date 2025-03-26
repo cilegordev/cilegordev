@@ -1,10 +1,14 @@
-! SOSMET ! ------------------------------------------------------------------------------------------------
+------ ! INDONESIA MAKMUR TANPA SLOT - NEGARA INI DI PIMPIN OLEH PEMIMPIN YANG DI BUTAKAN OLEH UANG ! ------
+
+! SOSMET ! -------------------------------------------------------------------------------------------------
 
 ! 2024-03-18 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 ! www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
 www.youtube.com##style-scope ytd-rich-grid-row
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com###mealbar-promo-renderer > .yt-mealbar-promo-renderer.style-scope
+www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 
 ! May 25, 2024 https://www.facebook.com
 www.facebook.com##.hlyrhctz.be9z9djy.lpgh02oy.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
@@ -17,13 +21,20 @@ www.facebook.com##div.x1emribx.x1i64zmx:nth-of-type(2) > .xh8yej3.x1n2onr6.x78zu
 www.facebook.com##.x1g2khh7.x1n2onr6
 www.facebook.com##div.x1ve1bff.x1l90r2v.x1q0g3np.xozqiw3.x1qjc9v5.xl56j7k.x2lah0s.x78zum5.x1ja2u2z.x1n2onr6.x9f619:nth-of-type(3)
 www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
+www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div > .x1n2onr6 > .x1y1aw1k.xwib8y2
+www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
 
 ! 2024-05-18 https://contacts.google.com
 contacts.google.com##div.KIRJpe:nth-of-type(2) > div > div > .fXx9Lc.NATFbe
 contacts.google.com###ow5745 > div:nth-of-type(3) > div:nth-of-type(1) > .fXx9Lc.NATFbe
 contacts.google.com##div:nth-of-type(3) > .KK5Xib.h4UZDd
 
-! WEBSITE NONTON ANIME ! ----------------------------------------------------------------------------------
+! Nov 11, 2024 https://www.amazon.co.uk
+www.amazon.co.uk###sp-cc
+
+! Feb 6, 2025 https://www.tokopedia.com
+www.tokopedia.com###my-shop-container > .css-14ezpfl
+www.tokopedia.com##.eztxgvy2.css-1e71h4d
 
 ! 2024-05-18 https://myanimelist.net
 myanimelist.net##.widget-content > h2
@@ -34,6 +45,11 @@ myanimelist.net##.left.announcements.widget > .widget-header
 myanimelist.net##.left.announcements.widget > .widget-content > .borderClass
 myanimelist.net##.left.watched_topics.widget
 
+! Nov 2, 2024 https://chatgpt.com
+chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
+
+! WEBSITE NONTON ANIME ! -----------------------------------------------------------------------------------
+
 ! 2024-01-05 https://kuramanime.com
 kuramanime.*##.mt-4
 kuramanime.*##.anime-ner.mb-4 > .row > div.col-lg-6.mx-auto:nth-of-type(1)
@@ -42,6 +58,9 @@ kuramanime.*##.blox
 
 ! 2024-04-12 https://samehadaku.com
 ||punyakakek.*/uploads/*.gif$image
+samehadaku.email###box_item_ads_popup > div
+||premi.wibufile.com/baner/*.gif$image
+||premi.wibufile.com/baner/*.gif$image
 
 ! 2024-04-12 https://nontonanimeid.com
 ||i0.wp.com/nontonanimeid.*/wp-content/uploads/ikln/navbar/*.gif$image
@@ -62,16 +81,24 @@ nontonanimeid.*##.site-footer
 ||anoboy.baby/*/qq288a.jpg$image
 ||anoboy.baby/img/discord.png$image
 ||anoboy.baby/img/*.jpg$image
-anoboy.baby##[href="https://lkgw.cc/anb288"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop
-anoboy.baby###ad_bawah
-anoboy.baby##[href="http://jpx500.quest/tmanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
-anoboy.baby##[href="http://jpx500.quest/qqtanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
-anoboy.baby##[href="https://playbook88hoki.com/"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
-anoboy.baby##[href="http://jpx500.quest/sg88anoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea > i-amphtml-sizer
-anoboy.baby##[href="https://hoki.mu/anoboy-klikhoki"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea
-anoboy.baby##[href="https://discord.com/channels/721068213495922799/725015724434784366/1186615652165877870"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea
+anoboy.*##[href="https://lkgw.cc/anb288"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop
+anoboy.*###ad_bawah
+anoboy.*##[href="http://jpx500.quest/tmanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
+anoboy.*##[href="http://jpx500.quest/qqtanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
+anoboy.*##[href="https://playbook88hoki.com/"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element > i-amphtml-sizer
+anoboy.*##[href="http://jpx500.quest/sg88anoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea > i-amphtml-sizer
+anoboy.*##[href="https://hoki.mu/anoboy-klikhoki"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea
+anoboy.*##[href="https://discord.com/channels/721068213495922799/725015724434784366/1186615652165877870"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.sidea
 
-! WEBSITE NONTON FILM ! -----------------------------------------------------------------------------------
+! Nov 12, 2024 https://desudrive.com
+desudrive.*##.box_item_ads_popup > div
+
+! Feb 8, 2025 https://otakudesu.cloud
+otakudesu.cloud###close-button2
+otakudesu.cloud###overplay
+otakudesu.cloud###countDown
+
+! WEBSITE NONTON FILM ! ------------------------------------------------------------------------------------
 
 ! 2023-07-23 https://lk21.com
 51.79.193.133##.idmuvi-topbanner-aftermenu > .row
@@ -117,9 +144,10 @@ lk21ind.net##.module_single_ads
 
 ! Nov 9, 2024 https://tv2.kumpul21.app
 tv2.kumpul21.app###top-b
-||cds.bet/tb/jalalive-830x90-otyst.gif$image
+||cds.bet/tb/*.gif$image
+||rts.gdn/tb/*.gif$image
 
-! WEBSITE BACA KOMIK ! ------------------------------------------------------------------------------------
+! WEBSITE BACA KOMIK ! -------------------------------------------------------------------------------------
 
 ! 2023-10-23 https://komiku.id
 komiku.id###i12485844
@@ -133,13 +161,16 @@ komikindo.tv##div.double:nth-of-type(4)
 ! 2024-04-06 https://kiryuu.id
 ! ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/1.jpg$image
 ! ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/2.jpg$image
-||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/1.gif$image
-||3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/btn_close.gif$image
+||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/*.gif$image
+||3.bp.blogspot.com/-ZZSacDHLWlM/VhvlKTMjbLI/AAAAAAAAF2M/UDzU4rrvcaI/s1600/*.gif$image
 kiryuu.id##.chaptertags
 kiryuu.id##.releases
 kiryuu.id##.commentx.cmt
 
-! WEBSITE DOWNLOAD ! --------------------------------------------------------------------------------------
+! Mar 26, 2025 https://komikindo2.com
+komikindo2.com##.gulai_asam_manis
+
+! WEBSITE DOWNLOAD ! ---------------------------------------------------------------------------------------
 
 ! 2023-10-19 https://www.utorrent.com
 ||www.utorrent.com/images/nord-images/affiliate-features-campaign-1500x300.png$image
@@ -171,7 +202,11 @@ downzen.com##[href^="https://www.youtube.com/channel/UCRqoTwEsALkHMuzs7FK-8OQ"] 
 downzen.com##amp-ad.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-notbuilt.i-amphtml-element.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.g-ads:nth-of-type(1)
 ||st.downzen.com/dzni/*media/*.png$image
 
-! WEBSITE BACA ! ------------------------------------------------------------------------------------------
+
+! WEBSITE BACA ! -------------------------------------------------------------------------------------------
+
+! Aug 5, 2024 https://www.google.com
+www.google.com##i
 
 ! 2024-05-15 https://www.91mobiles.com
 www.91mobiles.com##div.finder_snipet_wrap:nth-of-type(19)
@@ -196,16 +231,13 @@ www.thomasmaurer.ch##.clearfix.header_row_center.header_row
 gaming-tools.com##h3
 gaming-tools.com##p:nth-of-type(2)
 
-! Aug 5, 2024 https://www.google.com
-www.google.com##i
-
 ! Aug 17, 2024 https://www.w3schools.com
 www.w3schools.com###adngin-sidebar_sticky-0
 
-! KUENYA KAKAK ! -------------------------------------------------------------------------------------------
+! Nov 18, 2024 https://www.bmw-m.com
+www.bmw-m.com##epaas-consent-drawer-shell
 
-! Nov 2, 2024 https://chatgpt.com
-chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
+! KUENYA KAKAK ! -------------------------------------------------------------------------------------------
 
 ! Nov 2, 2024 https://askubuntu.com
 askubuntu.com##.vertical-align-content.ot-wo-title.ot-bottom-left.otFloatingRoundedCorner
@@ -227,5 +259,8 @@ www.mediafire.com###cookie-accept-footer
 
 ! Nov 8, 2024 https://www.remove.bg
 www.remove.bg##.justify-content-between.flex-column.d-flex.p-4.container
+
+! Nov 18, 2024 https://ubuntu.com
+ubuntu.com##.p-modal
 
 -------------- ! KALO ADA DI BAWAH INI BERARTI HARUS SEGERA DI PINDAHKAHKAN SESUAI KATEGORI ! --------------
