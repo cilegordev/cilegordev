@@ -2,6 +2,9 @@
 
 ! SOSMET ! -------------------------------------------------------------------------------------------------
 
+! Aug 5, 2024 https://www.google.com
+www.google.com##i
+
 ! 2024-03-18 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
 ! www.youtube.com##ytd-rich-grid-row.ytd-rich-grid-renderer.style-scope > .ytd-rich-grid-row.style-scope
@@ -59,8 +62,8 @@ kuramanime.*##.blox
 ! 2024-04-12 https://samehadaku.com
 ||punyakakek.*/uploads/*.gif$image
 samehadaku.email###box_item_ads_popup > div
-||premi.wibufile.com/baner/*.gif$image
-||premi.wibufile.com/baner/*.gif$image
+||premi.wibufile.*/baner/*.gif$image
+||premi.wibufile.*/baner/*.gif$image
 
 ! 2024-04-12 https://nontonanimeid.com
 ||i0.wp.com/nontonanimeid.*/wp-content/uploads/ikln/navbar/*.gif$image
@@ -77,10 +80,10 @@ nontonanimeid.*##.site-footer
 ! Jun 5, 2024 http://62.171.144.229
 ||62.171.144.229/wp-content/plugins/floating-ads-bottom/images/close.png$image
 
-! Jun 26, 2024 https://anoboy.baby
-||anoboy.baby/*/qq288a.jpg$image
-||anoboy.baby/img/discord.png$image
-||anoboy.baby/img/*.jpg$image
+! Jun 26, 2024 https://anoboy.com
+||anoboy.*/*/qq288a.jpg$image
+||anoboy.*/*/discord.png$image
+||anoboy.*/*/*.jpg$image
 anoboy.*##[href="https://lkgw.cc/anb288"] > .i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop
 anoboy.*###ad_bawah
 anoboy.*##[href="http://jpx500.quest/tmanoboy"] > .amp-notsupported.i-amphtml-layout.i-amphtml-built.i-amphtml-layout-size-defined.i-amphtml-layout-responsive.i-amphtml-element.dekstop > i-amphtml-sizer
@@ -93,10 +96,10 @@ anoboy.*##[href="https://discord.com/channels/721068213495922799/725015724434784
 ! Nov 12, 2024 https://desudrive.com
 desudrive.*##.box_item_ads_popup > div
 
-! Feb 8, 2025 https://otakudesu.cloud
-otakudesu.cloud###close-button2
-otakudesu.cloud###overplay
-otakudesu.cloud###countDown
+! Feb 8, 2025 https://otakudesu.com
+otakudesu.*###close-button2
+otakudesu.*###overplay
+otakudesu.*###countDown
 
 ! WEBSITE NONTON FILM ! ------------------------------------------------------------------------------------
 
@@ -149,16 +152,16 @@ tv2.kumpul21.app###top-b
 
 ! WEBSITE BACA KOMIK ! -------------------------------------------------------------------------------------
 
-! 2023-10-23 https://komiku.id
-komiku.id###i12485844
+! 2023-10-23 https://komiku.co.id
+komiku.*###i12485844
 
-! 2024-03-25 https://komikindo.tv
-komikindo.tv###wrap > .gulai_asam_manis > div.double:nth-of-type(1)
-komikindo.tv###wrap > .gulai_asam_manis > div.double:nth-of-type(2)
-komikindo.tv##div.double:nth-of-type(3)
-komikindo.tv##div.double:nth-of-type(4)
+! 2024-03-25 https://komikindo.co.id
+komikindo.*###wrap > .gulai_asam_manis > div.double:nth-of-type(1)
+komikindo.*###wrap > .gulai_asam_manis > div.double:nth-of-type(2)
+komikindo.*##div.double:nth-of-type(3)
+komikindo.*##div.double:nth-of-type(4)
 
-! 2024-04-06 https://kiryuu.id
+! 2024-04-06 https://kiryuu.co.id
 ! ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/1.jpg$image
 ! ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/2.jpg$image
 ||cdnkuma.my.id/wp-content/uploads/images/solo-leveling/*/*.gif$image
@@ -204,9 +207,6 @@ downzen.com##amp-ad.i-amphtml-unresolved.amp-unresolved.amp-notbuilt.i-amphtml-n
 
 
 ! WEBSITE BACA ! -------------------------------------------------------------------------------------------
-
-! Aug 5, 2024 https://www.google.com
-www.google.com##i
 
 ! 2024-05-15 https://www.91mobiles.com
 www.91mobiles.com##div.finder_snipet_wrap:nth-of-type(19)
