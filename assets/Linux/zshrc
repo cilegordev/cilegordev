@@ -71,8 +71,8 @@ TIMEFMT=$'\nreal\t%E\nuser\t%U\nsys\t%S\ncpu\t%P'
 #[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
 
 # set variable identifying the chroot you work in (used in the prompt below)
-if [ -z "${azurelinux_chroot:-}" ] && [ -r /etc/azurelinux_chroot ]; then
-    azurelinux_chroot=$(cat /etc/azurelinux_chroot)
+if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+    debian_chroot=$(cat /etc/debian_chroot)
 fi
 
 # set a fancy prompt (non-color, unless we know we "want" color)
@@ -97,22 +97,21 @@ if [ -n "$force_color_prompt" ]; then
 fi
 
 configure_prompt() {
-    # for user terminal
-    prompt_symbol=@
-    # for root terminal
-    #[ "$EUID" -eq 0 ] && prompt_symbol=@
+    prompt_symbol=㉿
+    # Skull emoji for root terminal
+    #[ "$EUID" -eq 0 ] && prompt_symbol=㉿
     case "$PROMPT_ALTERNATIVE" in
         twoline)
-            PROMPT=$'%F{%(#.blue.green)}┌──${azurelinux_chroot:+($azurelinux_chroot)─}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))─}(%B%F{%(#.red.blue)}%n'$prompt_symbol$'%m%b%F{%(#.blue.green)})-[%B%F{reset}%(6~.%-1~/…/%4~.%5~)%b%F{%(#.blue.green)}]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
+            PROMPT=$'%F{%(#.blue.green)}┌──${debian_chroot:+($debian_chroot)─}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))─}(%B%F{%(#.red.blue)}%n'$prompt_symbol$'%m%b%F{%(#.blue.green)})-[%B%F{reset}%(6~.%-1~/…/%4~.%5~)%b%F{%(#.blue.green)}]\n└─%B%(#.%F{red}#.%F{blue}$)%b%F{reset} '
             # Right-side prompt with exit codes and background processes
             #RPROMPT=$'%(?.. %? %F{red}%B⨯%b%F{reset})%(1j. %j %F{yellow}%B⚙%b%F{reset}.)'
             ;;
         oneline)
-            PROMPT=$'${azurelinux_chroot:+($azurelinux_chroot)}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))}%B%F{%(#.red.blue)}%n%F{white}'$prompt_symbol$'%F{blue}%m%b%F{white}: %F{reset}%B%F{%(#.blue.green)}%F{white}[ %F{green}%~ %F{white}]%b%F{reset}%(#.#.$) '
+            PROMPT=$'${debian_chroot:+($debian_chroot)}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))}%B%F{%(#.red.blue)}%n%F{white}'$prompt_symbol$'%F{blue}%m%b%F{white}: %F{reset}%B%F{%(#.blue.green)}%F{white}[ %F{green}%~ %F{white}]%b%F{reset}%(#.#.$) '
             RPROMPT=$'%(?.. %? %F{red}%BX%b%F{reset})%(1j. %j %F{yellow}%BO%b%F{reset}.)'
             ;;
         bash)
-            PROMPT=$'${azurelinux_chroot:+($azurelinux_chroot)}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))}%B%F{red}%n@%m%b%F{reset}:%B%F{blue}%~%b%F{reset}%(#.#.$) '
+            PROMPT=$'${debian_chroot:+($debian_chroot)}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))}%B%F{red}%n@%m%b%F{reset}:%B%F{blue}%~%b%F{reset}%(#.#.$) '
             #RPROMPT=
             ;;
     esac
@@ -121,10 +120,10 @@ configure_prompt() {
 
 # The following block is surrounded by two delimiters.
 # These delimiters must not be modified. Thanks.
-# START SHELL CONFIG VARIABLES
+# START KALI CONFIG VARIABLES
 PROMPT_ALTERNATIVE=oneline
 NEWLINE_BEFORE_PROMPT=no
-# STOP SHELL CONFIG VARIABLES
+# STOP KALI CONFIG VARIABLES
 
 if [ "$color_prompt" = yes ]; then
     # override default virtualenv indicator in prompt
@@ -179,7 +178,7 @@ if [ "$color_prompt" = yes ]; then
         ZSH_HIGHLIGHT_STYLES[cursor-matchingbracket]=standout
     fi
 else
-    PROMPT='${azurelinux_chroot:+($azurelinux_chroot)}%n@%m:%~%(#.#.$) '
+    PROMPT='${debian_chroot:+($debian_chroot)}%n@%m:%~%(#.#.$) '
 fi
 unset color_prompt force_color_prompt
 
@@ -195,10 +194,10 @@ toggle_oneline_prompt(){
 zle -N toggle_oneline_prompt
 bindkey ^P toggle_oneline_prompt
 
-# If this is an xterm set the title to Terminal
+# If this is an xterm set the title to user@host:dir
 case "$TERM" in
 xterm*|rxvt*|Eterm|aterm|kterm|gnome*|alacritty)
-    TERM_TITLE=$'\e]0;$(. /etc/os-release; echo "$NAME" - Terminal)\a'
+    TERM_TITLE=$'\e]0;${debian_chroot:+($debian_chroot)}${VIRTUAL_ENV:+($(basename $VIRTUAL_ENV))}%n@%m: %~\a'
     ;;
 *)
     ;;
@@ -224,8 +223,8 @@ if [ -x /usr/bin/dircolors ]; then
     export LS_COLORS="$LS_COLORS:ow=30;44:" # fix ls color for folders with 777 permissions
 
     alias ls='ls --color=auto'
-    alias dir='dir --color=auto'
-    alias vdir='vdir --color=auto'
+    #alias dir='dir --color=auto'
+    #alias vdir='vdir --color=auto'
 
     alias grep='grep --color=auto'
     alias fgrep='fgrep --color=auto'
@@ -250,17 +249,21 @@ fi
 alias ll='ls -l'
 alias la='ls -A'
 alias l='ls -CF'
-alias lla='ls -a -l'
-alias dh='df'
-alias cls='clear'
-alias s='sudo'
-alias ex='exit'
-alias ssr='sudo rm -rfv'
-alias ext='tar -xvf'
-alias chown='sudo chown -R'
-alias reboot='sudo init 6'
-alias poweroff='sudo init 0'
-alias test='./autogen.sh && ./configure --prefix=/usr && make'
+
+alias s="sudo"
+alias ex="exit"
+alias cls="clear"
+alias ext="tar -xvf"
+alias ssr="sudo rm -rfv"
+alias apt="sudo apt"
+alias chown="sudo chown -R"
+alias chmod="sudo chmod"
+alias dmesg="sudo dmesg"
+alias reboot="sudo init 6"
+alias poweroff="sudo init 0"
+alias neofetch="neofetch --off"
+alias install="sudo apt install --no-install-recommends"
+
 # enable auto-suggestions based on the history
 if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
     . /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
