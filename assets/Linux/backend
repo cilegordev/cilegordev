@@ -1,12 +1,12 @@
 #!/bin/sh
+# Requires : linux-firmware alsa-utils pulseaudio pavucontrol
 
 # Still Remember Should I Use Kali Linux?
 # DOC https://www.kali.org/docs/introduction/should-i-use-kali-linux/
 
 echo DISABLE UNUSED PROPERTY 
-sudo swapoff -a
-
 sleep 1
+brightnessctl set 4%
 sudo rmmod -f pcspkr
 # sudo rmmod -f snd_pcm
 # amixer sset Capture 25000
