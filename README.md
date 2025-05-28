@@ -18,7 +18,7 @@ About me :
 
 Primary language : 
 
-<img src="bahasa.png" width="256"/> 
+<img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/refs/heads/master/svg/country-4x3/id.svg" height="48px" hspace="10"><img src="https://skillicons.dev/icons?i=html,css,bash,powershell" />
 
 ### Nothing special in here 🚀
 

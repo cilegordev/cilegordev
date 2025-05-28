@@ -4,6 +4,7 @@
 
 ! Aug 5, 2024 https://www.google.com
 www.google.com##i
+googleads.g.doubleclick.net
 
 ! 2024-03-18 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
@@ -12,11 +13,11 @@ www.youtube.com##style-scope ytd-rich-grid-row
 www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com###mealbar-promo-renderer > .yt-mealbar-promo-renderer.style-scope
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
+www.youtube.com###scroll-outer-container > .yt-horizontal-list-renderer.style-scope
 
 ! May 25, 2024 https://www.facebook.com
 www.facebook.com##.hlyrhctz.be9z9djy.lpgh02oy.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
 www.facebook.com##.x1xmf6yo.xev17xk.xy80clv.xso031l.xm81vs4.x178xt8z.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.xu1343h.x1nb4dca.x1y71gwh.x1exxf4d
-googleads.g.doubleclick.net
 www.facebook.com##.xhfbhpw.x1rohswg.x1y1aw1k.xwib8y2.xat24cr.x9f619.x7p5m3t.xw2csxc.xjx87ck.x1yqm8si.xfk6m8.x1pq812k.x1ja2u2z.x1n2onr6.x10wlt62.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i
 www.facebook.com##.x1swvt13.xjkvuk6.x1pi30zi.xz9dl7a.x1qughib.x1q0g3np.x78zum5
 www.facebook.com##.x1xmf6yo.xev17xk.xy80clv.xso031l.xm81vs4.x178xt8z.x26u7qi.x1q0q8m5.xu3j5b3.x13fuv20.x9jhf4c.x30kzoy.xgqcy7u.x1lq5wgf.xu1343h.x1nb4dca.x1y71gwh.x1exxf4d
@@ -26,6 +27,7 @@ www.facebook.com##div.x1ve1bff.x1l90r2v.x1q0g3np.xozqiw3.x1qjc9v5.xl56j7k.x2lah0
 www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
 www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div > .x1n2onr6 > .x1y1aw1k.xwib8y2
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
+www.facebook.com##div.xnjli0.x1q8cg2c.xwib8y2.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.x1gh759c.xnqzcj9.xfvfia3.x1i6fsjq.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl:nth-of-type(1)
 
 ! 2024-05-18 https://contacts.google.com
 contacts.google.com##div.KIRJpe:nth-of-type(2) > div > div > .fXx9Lc.NATFbe
@@ -50,6 +52,13 @@ myanimelist.net##.left.watched_topics.widget
 
 ! Nov 2, 2024 https://chatgpt.com
 chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
+chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+
+! May 23, 2025 https://www.canva.com
+www.canva.com##.e4Qmjw
+
+! May 25, 2025 https://www.rapidtables.com
+www.rapidtables.com###private-alert
 
 ! WEBSITE NONTON ANIME ! -----------------------------------------------------------------------------------
 
