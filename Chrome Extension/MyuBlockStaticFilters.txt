@@ -51,7 +51,8 @@ myanimelist.net##.left.announcements.widget > .widget-content > .borderClass
 myanimelist.net##.left.watched_topics.widget
 
 ! Nov 2, 2024 https://chatgpt.com
-chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
+! chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
+chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute > .w-full.h-full.relative
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 
 ! May 23, 2025 https://www.canva.com
