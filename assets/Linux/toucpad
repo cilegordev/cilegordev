@@ -1,0 +1,15 @@
+#!/bin/bash
+
+TOUCHPAD_ID=12
+
+STATUS=$(xinput list-props $TOUCHPAD_ID | grep "Device Enabled" | awk '{print $4}')
+
+if [ "$STATUS" -eq 1 ]; then
+    echo "Touchpad is enabled. Disabling touchpad..."
+    xinput disable $TOUCHPAD_ID
+    echo "Touchpad disabled."
+else
+    echo "Touchpad is disabled. Enabling touchpad..."
+    xinput enable $TOUCHPAD_ID
+    echo "Touchpad enabled."
+fi
