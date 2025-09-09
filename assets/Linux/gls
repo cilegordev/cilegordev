@@ -1,0 +1,13 @@
+#!/bin/sh
+
+permissions=$(ls -l | awk '{print $1}' | tail -n +2)
+
+for file in *; do
+    acces=$(stat --format='%a' "$file")
+    user=$(stat --format='%U' "$file")
+    group=$(stat --format='%G' "$file")
+    time=$(stat --format='%y' "$file" | awk -F' ' '{split($1, date, "-"); split($2, clock, ":"); print date[3] "-" date[2] "-" date[1] " " clock[1] ":" clock[2]}')
+    perm=$(echo "$permissions" | head -n 1)
+    permissions=$(echo "$permissions" | tail -n +2)
+    echo "$perm:$acces $user:$group $time $file"
+done
