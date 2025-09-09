@@ -1,0 +1,43 @@
+#!/bin/bash
+
+IFACE=$(ls /sys/class/net | grep -v lo | while read i; do
+    if [[ -f /sys/class/net/$i/carrier ]] && [[ $(cat /sys/class/net/$i/carrier) -eq 1 ]]; then
+        echo $i
+        break
+    fi
+done)
+
+IFACE=${IFACE:-eth0}
+
+RX_FILE="/tmp/rx_${IFACE}"
+TX_FILE="/tmp/tx_${IFACE}"
+
+RX_OLD=$(cat $RX_FILE 2>/dev/null || echo 0)
+TX_OLD=$(cat $TX_FILE 2>/dev/null || echo 0)
+
+RX_NOW=$(cat /sys/class/net/$IFACE/statistics/rx_bytes)
+TX_NOW=$(cat /sys/class/net/$IFACE/statistics/tx_bytes)
+
+echo $RX_NOW > $RX_FILE
+echo $TX_NOW > $TX_FILE
+
+RX_DIFF=$((RX_NOW - RX_OLD))
+TX_DIFF=$((TX_NOW - TX_OLD))
+
+RX_KBPS=$(awk "BEGIN {printf \"%.2f\", ($RX_DIFF*8/1024)}")
+TX_KBPS=$(awk "BEGIN {printf \"%.2f\", ($TX_DIFF*8/1024)}")
+
+if (( $(echo "$RX_KBPS > 1024" | bc -l) )); then
+    RX_VAL=$(awk "BEGIN {printf \"%.2f Mbps\", ($RX_KBPS/1024)}")
+else
+    RX_VAL="${RX_KBPS} Kbps  "
+fi
+
+if (( $(echo "$TX_KBPS > 1024" | bc -l) )); then
+    TX_VAL=$(awk "BEGIN {printf \"%.2f Mbps\", ($TX_KBPS/1024)}")
+else
+    TX_VAL="${TX_KBPS} Kbps  "
+fi
+
+echo "$RX_VAL"
+echo "$TX_VAL"
