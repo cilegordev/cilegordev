@@ -1,0 +1,35 @@
+#!/bin/bash
+clear
+read -p "URL: " URL
+
+FILENAME=$(basename "$URL")
+
+wget "$URL" || { echo "FAILED TO FETCH $URL"; exit 1; }
+
+case "$FILENAME" in
+    *.7z) 7z x "$FILENAME" ;;
+    *.bz) tar -xvf "$FILENAME" ;;
+    *.bz2) tar -xvf "$FILENAME" ;;
+    *.gz) tar -xvf "$FILENAME" ;;
+    *.tar) tar -xvf "$FILENAME" ;;
+    *.tar.bz) tar -xvf "$FILENAME" ;;
+    *.tar.bz2) tar -xvf "$FILENAME" ;;
+    *.tar.lz) tar -xvf "$FILENAME" ;;
+    *.tar.gz) tar -xvf "$FILENAME" ;;
+    *.tar.7z) tar -xvf "$FILENAME" ;;
+    *.tar.xz) tar -xvf "$FILENAME" ;;
+    *.zip) unzip "$FILENAME" ;;
+    *) echo "UNLISTED!"; exit 1 ;;
+esac
+
+if [[ "$FILENAME" == *.tar.* || "$FILENAME" == *.tar ]]; then
+    FOLDERNAME=$(tar -tf "$FILENAME" | head -1 | cut -f1 -d"/")
+elif [[ "$FILENAME" == *.zip ]]; then
+    FOLDERNAME=$(unzip -l "$FILENAME" | awk '/\/ {print $4}' | head -1 | cut -f1 -d"/")
+elif [[ "$FILENAME" == *.7z ]]; then
+    FOLDERNAME=$(7z l "$FILENAME" | awk '/^D/ {print $NF; exit}')
+fi
+
+cd "$FOLDERNAME" || { echo "ERROR! $FOLDERNAME"; exit 1; }
+
+exec zsh
