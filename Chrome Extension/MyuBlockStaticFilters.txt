@@ -1,4 +1,4 @@
------- ! INDONESIA MAKMUR TANPA SLOT - NEGARA INI DI PIMPIN OLEH PEMIMPIN YANG DI BUTAKAN OLEH UANG ! ------
+------ ! INDONESIA MAKMUR TANPA SLOT - NEGARA INI DI PIMPIN OLEH PEMIMPIN YANG DI BUTAKAN OLEH UANG ! --17+8
 
 ! SOSMET ! -------------------------------------------------------------------------------------------------
 
@@ -14,6 +14,17 @@ www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com###mealbar-promo-renderer > .yt-mealbar-promo-renderer.style-scope
 www.youtube.com##ytd-horizontal-card-list-renderer.ytd-item-section-renderer.style-scope
 www.youtube.com###scroll-outer-container > .yt-horizontal-list-renderer.style-scope
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(1)
+www.youtube.com##grid-shelf-view-model.ytGridShelfViewModelHostHasBottomButton.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(2)
+www.youtube.com##grid-shelf-view-model.ytd-item-section-renderer.ytGridShelfViewModelHost:nth-of-type(3)
+www.youtube.com##.yt-lockup-view-model--compact.content-id-smKgVuSB18k.yt-lockup-view-model--horizontal.yt-lockup-view-model
+www.youtube.com##.yt-lockup-view-model--compact.content-id-RD6RECG55eLoI.yt-lockup-view-model--collection-stack-2.yt-lockup-view-model--horizontal.yt-lockup-view-model
+www.youtube.com##ytd-reel-shelf-renderer.ytd-watch-next-secondary-results-renderer.style-scope
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(1)
+www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(2)
+www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(3)
+www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(4)
 
 ! May 25, 2024 https://www.facebook.com
 www.facebook.com##.hlyrhctz.be9z9djy.lpgh02oy.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
