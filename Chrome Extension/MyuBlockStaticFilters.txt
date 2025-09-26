@@ -5,6 +5,18 @@
 ! Aug 5, 2024 https://www.google.com
 www.google.com##i
 googleads.g.doubleclick.net
+www.google.com##.C6AK7c.XVMlrc > .mXwfNd > .mVH5Fc > .R1QWuf
+www.google.com##div:nth-of-type(7) > .C6AK7c > .mXwfNd
+
+! Sep 26, 2025 https://www.bing.com https://learn.microsoft.com/en-us/answers/questions/2394646/how-do-i-remove-the-floating-ask-a-follow-up-windo
+www.bing.com##.composer_container
+www.bing.com###b_copilot_search_container
+www.bing.com###b-scopeListItem-conv
+www.bing.com###b-scopeListItem-copilotsearch
+www.bing.com##.b_footer
+
+! Sep 27, 2025 https://github.com i hate hovering
+github.com##.HeaderMenu-nav
 
 ! 2024-03-18 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
@@ -65,6 +77,8 @@ myanimelist.net##.left.watched_topics.widget
 ! chatgpt.com##.shadow-xxs.lg\:mx-auto.md\:items-center.dark\:bg-token-main-surface-secondary.dark\:border-transparent.\[text-wrap\:pretty\].text-token-text-primary.text-sm.pr-3.pl-5.py-4.bg-token-main-surface-primary.border-token-border-light.border.rounded-2xl.gap-4.items-start.w-full.flex
 chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute > .w-full.h-full.relative
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
+chatgpt.com##.hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].pe-4.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-2.items-center.flex.ms-2.text-m
+chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.start-1\/2.absolute > .dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].font-medium.text-sm.pe-3\.5.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-1\.5.items-center.flex
 
 ! May 23, 2025 https://www.canva.com
 www.canva.com##.e4Qmjw
@@ -202,7 +216,7 @@ komikindo2.com##.gulai_asam_manis
 ! 2024-05-05 https://www.nesabamedia.com
 www.nesabamedia.com##.nesabapartner_wrapper.wrapper
 www.nesabamedia.com##.custom_headerads
-www.nesabamedia.com##.nesaba_media1.adsbygoogle
+www.nesabamedia.com##.nesaba_media1.adsby
 
 ! Jul 14, 2024 https://getpayfree.com
 getpayfree.com##.secondary.widget-area
