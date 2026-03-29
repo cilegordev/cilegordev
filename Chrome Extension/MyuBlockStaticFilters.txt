@@ -17,6 +17,8 @@ www.bing.com##.b_footer
 
 ! Sep 27, 2025 https://github.com i hate hovering
 github.com##.HeaderMenu-nav
+github.com##.MarketingNavigation-module__nav__NPauXyD
+github.com##.MarketingNavigation-module__list__tFbMb > li
 
 ! 2024-03-18 https://www.youtube.com
 www.youtube.com##ytd-shelf-renderer.ytd-item-section-renderer.style-scope > .ytd-shelf-renderer.style-scope
@@ -37,6 +39,11 @@ www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-re
 www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(2)
 www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(3)
 www.youtube.com##yt-lockup-view-model.lockup.ytd-watch-next-secondary-results-renderer:nth-of-type(4)
+www.youtube.com##ytd-notification-topbar-button-renderer.ytd-masthead.style-scope
+www.youtube.com##.sb-whitelist-action.ytFlexibleActionsViewModelAction
+
+! Feb 11, 2026 https://studio.youtube.com
+studio.youtube.com##.ytcpInboxTriggerHost > ytcp-icon-button
 
 ! May 25, 2024 https://www.facebook.com
 www.facebook.com##.hlyrhctz.be9z9djy.lpgh02oy.stjgntxs.ni8dbmo4.fer614ym.dp1hu0rb.rirtxc74.pad24vr5.qbu88020.o387gat7.du4w35lb.rq0escxv > .dp1hu0rb.qowsmv63.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv > .k4xni2cv.l9j0dhe7.c3g1iek1.eg9m0zos.kh7kg01d.r57mb794.l56l04vs.tgvbjcpo.g5gj957u.buofh1pr.d8ncny3e.mb9wzai9.dkue75c7.pohlnb88.ofs802cu.q5bimw55.du4w35lb.ni8dbmo4.cbu4d94t.j83agx80.gvuykj2m.k7i0oixp.rpm2j7zs > .l9j0dhe7.buofh1pr.cbu4d94t.j83agx80
@@ -51,6 +58,10 @@ www.facebook.com##.xwib8y2.x1y1aw1k.xwya9rg.x1n2onr6
 www.facebook.com##.x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5 > .x1y1aw1k > div > .x1n2onr6 > .x1y1aw1k.xwib8y2
 www.facebook.com##.x1daaz14.xxzkxad.x7wzq59.x10wlt62.x6ikm8r.x1u2d2a2.x1t2pt76.xxc7z9f.xnjgh8c.x112wk31.xnp8db0.x1ja2u2z.x9f619 > .x1t2pt76.xedcshv.xdt5ytf.x78zum5.x1ja2u2z.x1n2onr6.x9f619 > .xq1qtft.x1n2onr6.x1e4zzel.x1odjw0f.x1oyok0e.xwo3gff.xx8ngbg.x2lwn1j.xs83m0k.x1iyjqo2.x1l7klhg.xjx87ck.x1yqm8si.xfk6m8.x1rohswg.x1pq812k.x1ja2u2z.x6ikm8r.xdt5ytf.x78zum5.x5lxg6s.x1q594ok.xb57i2i > .x1n2onr6.x1iyjqo2.xdt5ytf.x78zum5
 www.facebook.com##div.xnjli0.x1q8cg2c.xwib8y2.x1y1aw1k.x6s0dn4.x1ja2u2z.x16tdsg8.x1n2onr6.x1gh759c.xnqzcj9.xfvfia3.x1i6fsjq.x2lah0s.x1q0g3np.x78zum5.x1ypdohk.x9f619.xjyslct.x1a2a7pz.x1lku1pv.x87ps6o.x13rtm0m.x1e5q0jg.x3x9cwd.x1o1ewxj.xggy1nq.x1hl2dhg.xe8uvvx.xm0m39n.x1qhh985.xcfux6l.x972fbf.x17r0tee.x1sy0etr.xd10rxx.x1ejq31n.xjbqb8w.x1i10hfl:nth-of-type(1)
+
+! Feb 16, 2026 https://www.instagram.com
+www.instagram.com##.x1njnjl6
+www.instagram.com##.x1nhvcw1.x1oa3qoh.x1qjc9v5.xqjyukv.xdt5ytf.x2lah0s.x1c4vz4f.xryxfnj.x1plvlek.x1uhb9sk.x1ys307a.xyqm7xq.xbiv7yw.x16uus16.x1ga7v0g.x15mokao.x78zum5.xjbqb8w.x9f619.x1c1uobl.x18d9i69.xyri2b.xexx8yu.xat24cr.xdj266r.html-div
 
 ! 2024-05-18 https://contacts.google.com
 contacts.google.com##div.KIRJpe:nth-of-type(2) > div > div > .fXx9Lc.NATFbe
@@ -79,12 +90,17 @@ chatgpt.com##.z-20.bottom-full.end-0.start-0.absolute > .w-full.h-full.relative
 chatgpt.com##.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.shadow-xxs.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 chatgpt.com##.hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].pe-4.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-2.items-center.flex.ms-2.text-m
 chatgpt.com##.rtl\:translate-x-1\/2.ltr\:-translate-x-1\/2.start-1\/2.absolute > .dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].font-medium.text-sm.pe-3\.5.ps-3.py-1\.5.bg-\[\#F1F1FB\].rounded-full.gap-1\.5.items-center.flex
+chatgpt.com##.lg\:block.hidden > .dark\:hover\:bg-\[\#414071\].dark\:text-\[\#DCDBF6\].dark\:bg-\[\#373669\].hover\:bg-\[\#E4E4F6\].text-\[\#5D5BD0\].bg-\[\#F1F1FB\].font-medium.text-sm.rounded-full.gap-1.items-center.inline-flex > .pe-3.py-2.focus\:outline-none.text-current.ps-2\.5.bg-transparent.rounded-full.gap-1.items-center.flex.relative.button-glimmer-cta
+chatgpt.com##.dark\:border-token-border-strong\/60.border-token-border-strong\/60.dark\:bg-token-bg-tertiary\!.bg-token-bg-tertiary\!.border-b-0.rounded-b-none.rounded-t-\[32px\].pb-9\!.pt-2\.5.pe-2\.5\!.ps-4\!.-mb-9.relative.dark\:bg-token-main-surface-secondary.text-token-text-primary.bg-token-main-surface-primary.border-token-border-default.md\:items-center.dark\:border-transparent.lg\:mx-auto.\[text-wrap\:pretty\].text-sm.pe-3.ps-5.py-4.border.rounded-3xl.gap-4.items-start.w-full.flex
 
 ! May 23, 2025 https://www.canva.com
 www.canva.com##.e4Qmjw
 
 ! May 25, 2025 https://www.rapidtables.com
 www.rapidtables.com###private-alert
+
+! Feb 18, 2026 https://www.roblox.com
+www.roblox.com##.notification-margins.navbar-stream.navbar-icon-item
 
 ! WEBSITE NONTON ANIME ! -----------------------------------------------------------------------------------
 
@@ -135,6 +151,7 @@ desudrive.*##.box_item_ads_popup > div
 otakudesu.*###close-button2
 otakudesu.*###overplay
 otakudesu.*###countDown
+||blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2jo9dzeMz-jDm-3nDUV0XjrI4ZYcb_9L_Q79KIFCRh4vOPBBGU5JEKaDi0uJJ_dnmNvY4r62q0RO-xVxYe7Qgw9j_My4ZQ5gwXzkubayG7fY-QnOT_ICM1ZTlcK9KySqXFCiYQAwrHBDzawIcIQbw6X5VT9gb_MmyI5EkMNGEK-ZY7WG-tLBI76LHtRSc/s800/Anime%20Sub%20Indo.gi$image
 
 ! WEBSITE NONTON FILM ! ------------------------------------------------------------------------------------
 
