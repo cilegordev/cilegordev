@@ -6,10 +6,11 @@ About me :
 
 - i can't coding. i can't make script. i can't speak english. and i not developer.
 - i just backup file in github.
+- but in this ai era make code is possible of course with brain
 
 Primary language : 
 
-<img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/refs/heads/master/svg/country-4x3/id.svg" height="48px" hspace="10"><img src="https://skillicons.dev/icons?i=html,css,bash,powershell" />
+<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="48" /> <img src="https://skillicons.dev/icons?i=html,css,bash,powershell" />
 
 Now i'm following update : 
 
