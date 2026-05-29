@@ -10,7 +10,7 @@ About me :
 
 Primary language : 
 
-<img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="48" /> <img src="https://skillicons.dev/icons?i=html,css,bash,powershell" />
+<img src="assets/icons.png" width="256">
 
 Now i'm following update : 
 
