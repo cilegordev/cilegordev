@@ -1,0 +1,34 @@
+#!/bin/sh
+# curl -fsSL "" | sh
+# Disable asking password at use sudo
+echo "$(whoami) ALL=(ALL:ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/$(whoami)
+
+# Set time to Asia/Jakarta
+sudo timedatectl set-timezone Asia/Jakarta
+
+# Disable unused services
+sudo systemctl disable --now irqbalance.service
+sudo systemctl disable --now systemd-homed.service
+
+# Remove unused packages
+sudo dnf -y remove azurelinux-repos-ms* azurelinux-repos-cl* \
+cronie* golang hyperv* qemu* tboot tdnf* tpm* vim
+
+# Remove systemd-resolved symlink and repaired
+sudo rm -f /etc/resolv.conf
+sudo sh -c 'cat > /etc/resolv.conf <<EOF
+nameserver 1.1.1.1
+nameserver 8.8.8.8
+EOF'
+
+# Make dnf more faster
+sudo sh -c  'cat <<'EOF' >> /etc/dnf/dnf.conf
+fastestmirror=True
+max_parallel_downloads=10
+EOF'
+
+# Add desktop experience repo
+sudo wget -P /etc/yum.repos.d https://raw.githubusercontent.com/cilegordev/azurelinux-repos-env/refs/heads/Extended/azurelinux-env.repo
+
+# Install devel tools
+sudo dnf -y install azurelinux-repos-extended nano htop tree
